@@ -12344,7 +12344,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2917
     },
@@ -12402,7 +12402,7 @@
       },
       "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\nDreadnaughts are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with low-angle intercepting systems. Unlike low-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the dreadnaughts are seen on the battlefront, it means child's play is over.",
       "defName": "AT_dreadnought",
-      "enabled": true,
+      "enabled": false,
       "name": "Anty Dreadnought",
       "price": 5000
     },
@@ -12460,7 +12460,7 @@
       },
       "description": "They are bioweapons recreated after Mechanoids by the Anties.\n\\Hive guard are possessed only the most advanced Hives and are stationed at the last lines of defense.\n\nThey are equipped with High-angle intercepting systems. Unlike High-angle shields, they deny both incoming and outgoing projectiles.(Dlc) \n\nIf the Hive guard are seen on the battlefront, it means child's play is over.",
       "defName": "AT_Hiveguard",
-      "enabled": true,
+      "enabled": false,
       "name": "Anty Hive guard",
       "price": 5000
     },
@@ -12516,7 +12516,7 @@
       },
       "description": "Anties are genetically engineered beings by a private company to replace dying soldiers on the battle field.\n\nEverything has gone south when the company has let their guard down to celebrate their recent progress. Due to a mistake made by one of the employees, the Anties have been set free from the lab and ended up in space.\n\nTheir personalities are gentle by nature, but they were made to know only but war. On each planet they end up, they burn everything down to ash, using themselves as the main source of the fuel.\n\nAnty is hermaphrodite, has no externally exposed reproductive organs, but has both a scrotum and ovaries in the abdomen.\n\nAnty's gender is indicated based on her reproductive system, which was a little more developed prior to consuming the Nutritional jelly.\n\nThe average height of common anty ergates and queen ants is 140cm, while soldier ants are 170cm. Depending on needs or the type of hive, it can transform or grow up to 200cm.",
       "defName": "Anty",
-      "enabled": true,
+      "enabled": false,
       "name": "Anty",
       "price": 1333
     },
@@ -12543,7 +12543,7 @@
       },
       "description": "A tribe of rabbit-like humanoids. They are small and weak, but have powerful legs.\n        \n        Small bodies leave them roughly 15% weaker in nearly all respects\n        Less resistant to cold temperatures\n        Over 40% faster running speed\n        Generally fine-featured and attractive\n        Somewhat Neurotic",
       "defName": "Alien_BunTribe",
-      "enabled": true,
+      "enabled": false,
       "name": "Bun",
       "price": 2917
     },
@@ -12581,7 +12581,7 @@
       },
       "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.",
       "defName": "Dragonian_Prime",
-      "enabled": true,
+      "enabled": false,
       "name": "Dragonian",
       "price": 9667
     },
@@ -12619,7 +12619,7 @@
       },
       "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.",
       "defName": "Dragonian_Male",
-      "enabled": true,
+      "enabled": false,
       "name": "Dragonian",
       "price": 9667
     },
@@ -12657,7 +12657,7 @@
       },
       "description": "A beautiful, semi-reptilian creature with features of a mythical dragon and a human being. They are prized by poachers for their silky, silver hair, and others seek to capture them for their high price at the black markets.",
       "defName": "Dragonian_Female",
-      "enabled": true,
+      "enabled": false,
       "name": "Dragonian",
       "price": 9667
     },
@@ -12702,7 +12702,7 @@
       },
       "description": "The Half-Dragons have been a space faring race for quite a long time, contrary to popular belief these noble yet somewhat savage folk are not genetically engineered. They are easily spotted by their physical differences with humans thanks to their colorful scales, draconic eyes, horns and even tails! Thanks to their physical differences and strong scales people of this race proved themselves to be excellent melee combatants. It was easy to find them serving various empires outside of their own as front line fighters.\n\n      Sadly due to their hardy nature and exotic looks many Half-Dragons end up captured and forced into gladiatorial combat. There are other reasons they are highly sought after; unique biological traits that are wholly unique to them. One of which allows to combine a specialized ore with their blood that activates various powerful abilities.\n\n      A point of debate of many scholars is how such a openly savage race had made it to spaceflight, much less a force that roams about the galaxy. This is in large part thanks to a rare sub group of Half-Dragons that lead their kind in political, cultural and scientific endeavors. These \"albino's\" are almost the polar opposites of their more common brutish brethren. Despite a strong imperial nation and a sense of loyalty to their own, those that find themselves able to escape their gladiatorial slavery often form up as pirates. These pirates tend to be ruthless and a general nuisance in the galaxy.",
       "defName": "HalfDragon",
-      "enabled": true,
+      "enabled": false,
       "name": "Half-Dragon",
       "price": 5000
     },
@@ -12735,7 +12735,7 @@
       },
       "description": "Heyras settled in Rimworld a long time ago. They possess a unique psychic ability to, occasionally, hear whispers in their heads. Despite these whispers being mostly scattered words, Heyras believe they are the oracles of God. We do not know if these whispers are real. But it is confirmed that Heyras have a higher psychic sensitivity than humans.",
       "defName": "Alien_Heyra",
-      "enabled": true,
+      "enabled": false,
       "name": "Heyra",
       "price": 4583
     },
@@ -12768,7 +12768,7 @@
       },
       "description": "These savage barbarians are the nemesis of Heyras. They have thrown away the sense of moral and pursuit the primal pleasure. A series of evidence indicates that Rong is a separated branch of Heyra, although the Supreme Hierarch of Heyra denies this in all her strength.",
       "defName": "Alien_Heyra_Rong",
-      "enabled": true,
+      "enabled": false,
       "name": "Rong",
       "price": 4583
     },
@@ -12796,7 +12796,7 @@
       },
       "description": "Kijins are ogres who were evolved alikes of humans. Their huge bodies and muscles have shrunk, but the muscles are more dense and stronger. They still have to eat a lot to keep themselves up.",
       "defName": "Alien_Kijin",
-      "enabled": true,
+      "enabled": false,
       "name": "Kijin",
       "price": 2500
     },
@@ -12836,7 +12836,7 @@
       },
       "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.",
       "defName": "Kurin_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Kurin",
       "price": 5833
     },
@@ -12879,7 +12879,7 @@
       },
       "description": "Mincho is a slime-like race fully comprised of mintchoco ice cream.\n\nICEcRIM Co. created slime using mintchoco flavor ice cream with variant mechanite as an advertisement toy. However, due to an accidental mix-up during the final production stage, the wrong kind of variant, that was supposed to be disposed of due to critical defects, was used.\n\nMincho mimics human beings out of pure affection. They wish the humans to love them and \"consume\" them.\n\nDue to the simplicity of body composition, they are capable of regenerating even severed heads, resilient against diseases, and endures most fatal wounds.\n\nDifferences in the nerve system made them also immune to pain and psychic waves.\n\nHowever, Mincho is not capable of thinking, slow to learn and work, and weak against heat. \n\nWhen they are killed somehow (perhaps by having their core destroyed) they will turn into a lump of mintchoco ice cream.",
       "defName": "Mincho_ThingDef",
-      "enabled": true,
+      "enabled": false,
       "name": "mincho",
       "price": 3333
     },
@@ -12902,7 +12902,7 @@
       },
       "description": "Marilyn was originally a tribal girl. One day, the parents were killed in a pirate attack, and Marilyn was sold to the Empire as a slave. The Empire, which discovered the qualities of psychic in Marilyn, sent her to the Institute of psychic.\n\nThe Empire wanted to control the Mincho - slime type creatures discovered in recent years - with psychic and use it as a weapon and a labor force. But the Mincho was numb to psychic in the first place, so there was no progress in research.\n\nThe institute hypothesized that if parasites the variant mechanites - which makes up the body of the Mincho - a human body that has qualities of psychic, it can control the variant mechanites in the body through psychic, and as a result, it will can directly or indirectly control the Mincho. The Institute of psychic installed a psychic amplifier that includes variant mechanites in Marilyn's brain for enlighten psychic, and parasite variant mechanites.\n\nBut at the time, Marilyn's mind was devastated by the murder of her parents, and when a test-modified psychic amplifier was installed there, Marilyn went completely insane. At the same time, the psychic exploded, releasing the variant mechanites indiscriminately, and the researchers exposed to it became the Mincho when the body was reconstructed by the variant mechanites.\n\nMarilyn escaped from the Institute and disappeared for several years, and reappearing. Her mind was completely rebuilt by the modified psychic amplifier, and she believes that Mincho is what will lead her to salvation. Marilyn calls herself a \"Minchowitch\" and worships and serves the Mincho at the same time.",
       "defName": "MinchoWitch",
-      "enabled": true,
+      "enabled": false,
       "name": "minchowitch",
       "price": 3500
     },
@@ -12935,7 +12935,7 @@
       },
       "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
       "defName": "Alien_Moyo",
-      "enabled": true,
+      "enabled": false,
       "name": "Moyo",
       "price": 5333
     },
@@ -12974,7 +12974,7 @@
       },
       "description": "A subspecies of the Moyo race, usually babies born after a Moyo is fertilized by a creature infected with the deep-sea virus. And because the symbiotic virus affects, most of them have strange personalities, but not intrinsically bad.",
       "defName": "Alien_RedMoyo",
-      "enabled": true,
+      "enabled": false,
       "name": "Red Moyo",
       "price": 5333
     },
@@ -13010,7 +13010,7 @@
       },
       "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
       "defName": "Alien_Nyaron",
-      "enabled": true,
+      "enabled": false,
       "name": "Nyaron",
       "price": 5000
     },
@@ -13047,7 +13047,7 @@
       },
       "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
       "defName": "Ratkin",
-      "enabled": true,
+      "enabled": false,
       "name": "Ratkin",
       "price": 3333
     },
@@ -13085,7 +13085,7 @@
       },
       "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
       "defName": "Ratkin_Su",
-      "enabled": true,
+      "enabled": false,
       "name": "Ratkin subject",
       "price": 3333
     }
