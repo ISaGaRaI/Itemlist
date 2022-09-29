@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -106,23 +96,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
-		"price": 275,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -134,11 +114,6 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -166,16 +141,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "farmanimals",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -192,7 +157,7 @@
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 200,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -206,11 +171,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "alphabeavers",
-		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "shippartpoison",
 		"price": 1900,
 		"karmatype": "Bad"
@@ -222,7 +182,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -247,12 +207,12 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -278,11 +238,6 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -312,7 +267,7 @@
 	},
 	{
 		"abr": "visitcolony",
-		"price": 300,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -357,7 +312,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -372,7 +327,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -397,6 +352,11 @@
 	},
 	{
 		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -434,7 +394,132 @@
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "factionwar",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factionsiege",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factioncontention",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "factioncamp",
+		"price": 1500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "raidpoachers",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "raidloggers",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "hostiletraveler",
+		"price": 400,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hostilecaravan",
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "iceage",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "globalwarming",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "psychicrain",
+		"price": 25000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "longnight",
+		"price": 25000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "psychicbloom",
+		"price": 10000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "veemeteoriteshower",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "animalpodcrash",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "spacebattle",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "earthquake",
+		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cargopodsweapons",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "cargopodsapparel",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "caravananimals",
+		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 600,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "battleanimals",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drought",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "wildmen",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 87
+	"total": 104
 }
