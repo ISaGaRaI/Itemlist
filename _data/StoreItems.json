@@ -15337,7 +15337,7 @@
 		"defname": "VCE_DeepFriedSushi"
 	},
 	{
-		"abr": "human"surimi"",
+		"abr": "humansurimi",
 		"price": 3,
 		"category": "Raw fish",
 		"defname": "VCE_HumanSurimi"
@@ -20105,7 +20105,7 @@
 		"price": 1833,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPE_FiringFocus"
-	}
+	},
 	],
-	"total": 3400
+	"total": 3385
 }
