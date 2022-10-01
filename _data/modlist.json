@@ -504,12 +504,6 @@
     "version": null
   },
   {
-    "author": "Fuglypump",
-    "name": "Job Splitter",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "dhultgren",
     "name": "Keep Bed Ownership",
     "steamId": null,
@@ -1894,5 +1888,11 @@
     "name": "VGP More Veggies",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Work Tab",
+    "steamId": "725219116",
+    "version": "3.21.303"
   }
 ]
