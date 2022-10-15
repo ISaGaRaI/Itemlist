@@ -559,7 +559,7 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "healanypawn": {
+  "4": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
