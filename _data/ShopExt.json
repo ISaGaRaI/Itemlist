@@ -1877,7 +1877,7 @@
         ]
       },
       "defName": "ShootingAccuracy",
-      "name": "expertshooter",
+      "name": "carefulshooter",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
