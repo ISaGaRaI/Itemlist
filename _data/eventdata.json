@@ -1,20 +1,4 @@
-﻿{
-  "tornado": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Twitch Toolkit"
-  },
-  "tornados": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Twitch Toolkit"
-  },
+{
   "clearweather": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
@@ -465,8 +449,8 @@
   },
   "trait": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
@@ -552,14 +536,6 @@
     "Mod": "ToolkitUtils"
   },
   "healall": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "ToolkitUtils"
-  },
-  "4": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -711,204 +687,28 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "factionwar": {
+  "healanypawn": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "Unknown"
+    "Mod": "ToolkitUtils"
   },
-  "factionsiege": {
+  "tornado": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "Unknown"
+    "Mod": "Twitch Toolkit"
   },
-  "factioncontention": {
+  "tornados": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
     "GlobalCooldown": 0,
     "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "factioncamp": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "raidpoachers": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "raidloggers": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "hostiletraveler": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "hostilecaravan": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "iceage": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "globalwarming": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "psychicrain": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "longnight": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "psychicbloom": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "hailstorm": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "veemeteoriteshower": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "animalpodcrash": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "spacebattle": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "earthquake": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "cargopodsweapons": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "cargopodsapparel": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "caravananimals": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "cropsprout": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "battleanimals": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "drought": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
-  },
-  "wildmen": {
-    "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
-    "Mod": "Unknown"
+    "Mod": "Twitch Toolkit"
   }
 }
