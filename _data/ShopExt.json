@@ -353,7 +353,10 @@
       "removePrice": 1000,
       "degree": 0,
       "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
-      "stats": [],
+      "stats": [
+        "x133% eating speed",
+        "x150% carrying capacity"
+      ],
       "conflicts": [
         "ascetic",
         "jealous"
@@ -364,7 +367,10 @@
           "ascetic",
           "jealous"
         ],
-        "stats": [],
+        "stats": [
+          "x133% eating speed",
+          "x150% carrying capacity"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -517,7 +523,10 @@
       "removePrice": 1000,
       "degree": 0,
       "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
-      "stats": [],
+      "stats": [
+        "x110% move speed",
+        "x150% recreation power"
+      ],
       "conflicts": [
         "charismatic",
         "verycharismatic",
@@ -542,7 +551,10 @@
           "veryinspirational",
           "magnetic"
         ],
-        "stats": [],
+        "stats": [
+          "x110% move speed",
+          "x150% recreation power"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -750,7 +762,7 @@
       "addPrice": 700,
       "removePrice": 1000,
       "degree": 0,
-      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
+      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced with artificial body parts or xenogenetics.",
       "stats": [],
       "conflicts": [
         "bodypurist"
@@ -776,7 +788,7 @@
       "addPrice": 700,
       "removePrice": 1000,
       "degree": 0,
-      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
+      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts and xenogenes are unethical and disgusting.",
       "stats": [],
       "conflicts": [
         "bodymodder"
@@ -14663,7 +14675,7 @@
       "name": "talent:jack-of-all-trades"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 700,
       "removePrice": 1000,
@@ -14797,7 +14809,7 @@
       "name": "talent:hero"
     },
     {
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 700,
       "removePrice": 1000,
@@ -15683,8 +15695,8 @@
       "name": "chosen"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 700,
       "removePrice": 1000,
       "degree": 0,
@@ -19076,7 +19088,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 0
+      "price": 10000
     }
   ]
 }

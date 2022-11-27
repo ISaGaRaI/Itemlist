@@ -6,11 +6,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -196,6 +191,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "settraits",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -206,8 +206,23 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "equip",
 		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -221,5 +236,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 44
+	"total": 47
 }

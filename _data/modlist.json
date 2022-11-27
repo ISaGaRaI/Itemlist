@@ -6,6 +6,12 @@
     "version": "1.5.0.0"
   },
   {
+    "author": "Samboy063 + Sl4vP0weR",
+    "name": "BetterLoading",
+    "steamId": "2884085308",
+    "version": "3.3.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -30,16 +36,52 @@
     "version": "3.5.2.0"
   },
   {
+    "author": "papercrane1001",
+    "name": "[1001]Expanded Shells",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "telardo",
     "name": "Better Gene Graphics Framework",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Syrus",
+    "name": "Healer Mech Serum Choice",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "InfinitySamurai",
+    "name": "RimConnect",
+    "steamId": "1880784338",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Undone",
+    "name": "Ignite Everything",
+    "steamId": "1607884210",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Pharmacist Temporary 1.4 Update",
+    "steamId": "2880823401",
+    "version": "2.9.140"
+  },
+  {
     "author": "Obi Vayne Kenobi",
     "name": "Genetic Natural Focus",
     "steamId": "2885843634",
     "version": "0.3.0"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1121.0"
   },
   {
     "author": "Nmajask",
@@ -81,7 +123,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.8316.17234"
+    "version": "1.0.8360.41522"
   },
   {
     "author": "dhultgren",
@@ -100,12 +142,6 @@
     "name": "Bad People",
     "steamId": "1369675292",
     "version": "1.4.0"
-  },
-  {
-    "author": "Josh Mate",
-    "name": "Balanced Soil",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "FrozenSnowFox",
@@ -141,7 +177,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.5.1.0"
+    "version": "2.5.2.0"
   },
   {
     "author": "FluffyKittens",
@@ -267,7 +303,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8348.36261"
+    "version": "1.0.8362.14900"
   },
   {
     "author": "Dubwise",
@@ -429,7 +465,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.4.0.6"
+    "version": "1.4.0.8"
   },
   {
     "author": "3HST Limited",
@@ -597,7 +633,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.7.5"
+    "version": "2.7.6"
   },
   {
     "author": "zymex",
@@ -634,12 +670,6 @@
     "name": "QualityBuilder",
     "steamId": "754637870",
     "version": "1.0.17"
-  },
-  {
-    "author": "Hatti",
-    "name": "QualitySurgeon",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
@@ -747,7 +777,7 @@
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "0.6.3.2410"
+    "version": "0.6.3.2421"
   },
   {
     "author": "Sandy",
@@ -1262,6 +1292,54 @@
   {
     "author": "dismarzero",
     "name": "VGP Garden Medicine",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Inglix",
+    "name": "Apparel Tainted Only When Corpse Rots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RelaxedOtter",
+    "name": "Better Mechanoid Loot (continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Misha",
+    "name": "Craftable Royalty Weapons (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Josh Mate",
+    "name": "Balanced Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "Bad Can Be Good (Continued)",
     "steamId": null,
     "version": null
   }

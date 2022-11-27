@@ -70,7 +70,7 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "ammocrate",
@@ -1796,13 +1796,13 @@
     },
     {
       "abr": "controlsublink(high)",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "ControlSublinkHigh",
       "price": 2000
     },
     {
       "abr": "controlsublink(standard)",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "ControlSublink",
       "price": 2000
     },
@@ -3610,25 +3610,25 @@
       "abr": "kidpants",
       "category": "Misc",
       "defname": "Apparel_KidPants",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "kidparka",
       "category": "Misc",
       "defname": "Apparel_KidParka",
-      "price": -10
+      "price": 172
     },
     {
       "abr": "kidromper",
       "category": "Misc",
       "defname": "Apparel_KidRomper",
-      "price": -10
+      "price": 112
     },
     {
       "abr": "kidshirt",
       "category": "Misc",
       "defname": "Apparel_KidShirt",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "kidney",
@@ -3950,7 +3950,7 @@
     },
     {
       "abr": "mechgestationprocessor",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "MechFormfeeder",
       "price": 2000
     },
@@ -3986,7 +3986,7 @@
     },
     {
       "abr": "mechlink",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "Mechlink",
       "price": 2000
     },
@@ -4012,7 +4012,7 @@
       "abr": "medicine",
       "category": "Medicine",
       "defname": "MedicineIndustrial",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "medicinebag",
@@ -4420,13 +4420,13 @@
       "abr": "pants",
       "category": "Misc",
       "defname": "Apparel_Pants",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "parka",
       "category": "Misc",
       "defname": "Apparel_Parka",
-      "price": -10
+      "price": 315
     },
     {
       "abr": "patchleather",
@@ -4714,7 +4714,7 @@
       "abr": "psychicemanator",
       "category": "Special",
       "defname": "PsychicEmanator",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "psychicfoilhelmet",
@@ -5072,13 +5072,13 @@
     },
     {
       "abr": "remoterepairer",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "RemoteRepairer",
       "price": 2000
     },
     {
       "abr": "remoteshielder",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "RemoteShielder",
       "price": 2000
     },
@@ -5090,7 +5090,7 @@
     },
     {
       "abr": "repairprobe",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "RepairProbe",
       "price": 2000
     },
@@ -6280,7 +6280,7 @@
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "vegetarianfinemeal",
@@ -10906,7 +10906,7 @@
       "abr": "wirelessdetonator",
       "category": "Security",
       "defname": "RD_WirelessDetonator",
-      "price": -10
+      "price": 125
     },
     {
       "abr": "woodenarmor",
@@ -10936,19 +10936,19 @@
       "abr": "x-composite",
       "category": "Raw resources",
       "defname": "PRFXComposite",
-      "price": 133
+      "price": 500
     },
     {
       "abr": "y-composite",
       "category": "Raw resources",
       "defname": "PRFYComposite",
-      "price": 133
+      "price": 500
     },
     {
       "abr": "z-composite",
       "category": "Raw resources",
       "defname": "PRFZComposite",
-      "price": 667
+      "price": 1000
     },
     {
       "abr": "antibiotics",
@@ -11639,7 +11639,133 @@
       "category": "Sweets",
       "defname": "yogurt",
       "price": 42
+    },
+    {
+      "abr": "dartgun",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_DartGun",
+      "price": 875
+    },
+    {
+      "abr": "empgrenadebelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeEMPBelt",
+      "price": 525
+    },
+    {
+      "abr": "fraggrenadebelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeFragBelt",
+      "price": 442
+    },
+    {
+      "abr": "molotovbelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeMolotovBelt",
+      "price": 408
+    },
+    {
+      "abr": "non-lethalpistol",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_RubberBulletPistol",
+      "price": 175
+    },
+    {
+      "abr": "stunbaton",
+      "category": "Melee weapons",
+      "defname": "VWE_MeleeWeapon_StunBaton",
+      "price": 220
+    },
+    {
+      "abr": "tasergun",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_Taser",
+      "price": 1333
+    },
+    {
+      "abr": "teargasgrenadebelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeTearGasBelt",
+      "price": 458
+    },
+    {
+      "abr": "teargasgrenades",
+      "category": "Grenades",
+      "defname": "VWE_TearGasGrenade",
+      "price": 458
+    },
+    {
+      "abr": "teargaslauncher",
+      "category": "Ranged weapons",
+      "defname": "VWE_Gun_TearGasLauncher",
+      "price": 925
+    },
+    {
+      "abr": "techprint(psyfocusequipment)",
+      "category": "Techprints",
+      "defname": "Techprint_Misha_CraftPsyFocusEquipment",
+      "price": 5000
+    },
+    {
+      "abr": "techprint(ultratechweapons)",
+      "category": "Techprints",
+      "defname": "Techprint_Misha_CraftUltraWeapon",
+      "price": 5000
+    },
+    {
+      "abr": "toxgrenadebelt",
+      "category": "Utility",
+      "defname": "VWE_Apparel_GrenadeToxicBelt",
+      "price": 525
+    },
+    {
+      "abr": "kidtribalwear",
+      "category": "Misc",
+      "defname": "Apparel_KidTribal",
+      "price": 108
+    },
+    {
+      "abr": "poluxseed",
+      "category": "Misc",
+      "defname": "PoluxSeed",
+      "price": 2000
+    },
+    {
+      "abr": "zombgrella",
+      "category": "Misc",
+      "defname": "Zombgrella",
+      "price": 642
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
+    },
+    {
+      "abr": "bigfirefoamshell",
+      "category": "Mortar shells",
+      "defname": "Shell_CompressedFirefoam",
+      "price": -10
+    },
+    {
+      "abr": "boomalopeshell",
+      "category": "Mortar shells",
+      "defname": "Shell_Boomalope",
+      "price": -10
+    },
+    {
+      "abr": "soapshell",
+      "category": "Mortar shells",
+      "defname": "Shell_Soap",
+      "price": -10
+    },
+    {
+      "abr": "very-high-explosiveshell",
+      "category": "Mortar shells",
+      "defname": "Shell_VeryHighExplosive",
+      "price": 92
     }
   ],
-  "total": 1940
+  "total": 1961
 }
