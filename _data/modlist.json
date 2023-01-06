@@ -24,6 +24,12 @@
     "version": "3.8.1038"
   },
   {
+    "author": "Syrchalis",
+    "name": "[SYR] Trait Value",
+    "steamId": "2451324814",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -36,10 +42,22 @@
     "version": "3.5.2.0"
   },
   {
-    "author": "Fuglypump",
-    "name": "Fallout Traits",
+    "author": "Windows XP",
+    "name": "Trade Ships No Matter What",
+    "steamId": "2296557502",
+    "version": "1.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "none",
+    "name": "[CAT] Show Hair With Hats or Hide All Hats",
+    "steamId": "2879080074",
+    "version": "1.0.0.0"
   },
   {
     "author": "papercrane1001",
@@ -58,12 +76,6 @@
     "name": "Healer Mech Serum Choice",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "InfinitySamurai",
-    "name": "RimConnect",
-    "steamId": "1880784338",
-    "version": "1.0.0.0"
   },
   {
     "author": "Undone",
@@ -87,7 +99,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1206.0"
+    "version": "1.4.1238.0"
   },
   {
     "author": "Nmajask",
@@ -174,12 +186,6 @@
     "version": null
   },
   {
-    "author": "cucumpear",
-    "name": "CCP's Mental Break Tweaks",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Chill the F*** Out",
     "steamId": "2880668727",
@@ -196,12 +202,6 @@
     "name": "Conduit Deconstruct",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity (exDev) & Luca",
-    "name": "[LC] Consolidated Traits",
-    "steamId": "2879753009",
-    "version": "1.0.8335.14924"
   },
   {
     "author": "Mlie",
@@ -318,6 +318,12 @@
     "version": null
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
     "author": "Victorique, Aurani and Tarojun",
     "name": "Expanded Prosthetics and Organ Engineering - Forked",
     "steamId": null,
@@ -370,18 +376,6 @@
     "name": "Food Alert (Continued)",
     "steamId": "2017538067",
     "version": "1.4.1"
-  },
-  {
-    "author": "K",
-    "name": "GlitterNet",
-    "steamId": "1725544583",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "K",
-    "name": "CyberNet",
-    "steamId": "1725545225",
-    "version": "1.0.0.0"
   },
   {
     "author": "Albion",
@@ -483,7 +477,7 @@
     "author": "erdelf",
     "name": "MinifyEverything",
     "steamId": "872762753",
-    "version": "1.0.8333.23023"
+    "version": "1.0.8393.27870"
   },
   {
     "author": "Haplo",
@@ -610,18 +604,6 @@
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "zymex",
-    "name": "Project RimFactory Revived",
-    "steamId": "2033979700",
-    "version": "2.7.6"
-  },
-  {
-    "author": "zymex",
-    "name": "Project RimFactory - Drones",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "kyeugh (urhähnchen)",
@@ -777,7 +759,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "Sarg",
@@ -1038,18 +1020,6 @@
     "version": "1.0.3"
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Helixien Gas Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "CiXwOw",
-    "name": "Helixien Gas Boiler",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Taranchuk and xrushha",
     "name": "Vanilla Ideology Expanded - Anima Theme",
     "steamId": null,
@@ -1170,12 +1140,6 @@
     "version": null
   },
   {
-    "author": "Dartstriker",
-    "name": "Watchtowers",
-    "steamId": "2877320918",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "CodeOptimist",
     "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
@@ -1214,12 +1178,6 @@
   {
     "author": "Smuffle",
     "name": "Harvest Organs Post Mortem",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "GeodesicDragon",
-    "name": "Project RimFactory Revived - Autopsy Machine",
     "steamId": null,
     "version": null
   },
@@ -1314,12 +1272,6 @@
     "version": "1.4.3566.3"
   },
   {
-    "author": "DaLLaN",
-    "name": "Cyber Fauna 1.4",
-    "steamId": "1548649032",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Rimatomics",
     "steamId": "1127530465",
@@ -1338,12 +1290,6 @@
     "version": "2.3.0.0"
   },
   {
-    "author": "Epicguru (James B)",
-    "name": "RimVibes (Continued)",
-    "steamId": "2815714756",
-    "version": "1.4.3"
-  },
-  {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
@@ -1357,13 +1303,223 @@
   },
   {
     "author": "dismarzero",
-    "name": "VGP Garden Fabrics Simplified",
+    "name": "VGP Three Sisters Plants",
     "steamId": null,
     "version": null
   },
   {
-    "author": "dismarzero",
-    "name": "VGP Three Sisters Plants",
+    "author": "Lowli",
+    "name": "Gene Bank Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "xrushha",
+    "name": "Anima Gear",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seti, Magenta_Ivy and Victor",
+    "name": "Anima Bionics - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Real Faction Guest (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DevDesigner",
+    "name": "ↁ Dryad Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ROMEHUSK",
+    "name": "Biotech - Insectoid Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mammalia",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Ear Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Mythic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Farmradish",
+    "name": "Biotech Nyaron",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Edern and Sir Van",
+    "name": "Combat Psycasts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "miyamiya",
+    "name": "Compressed Raid",
+    "steamId": "2377478084",
+    "version": "1.4"
+  },
+  {
+    "author": "TheGoofyOne",
+    "name": "Dried Berries and Meats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "Expanded Materials - Metals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "chromiumboy",
+    "name": "Extra Psycasts (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Canguro",
+    "name": "Fermented neutroamine insects",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Gear Up And Go",
+    "steamId": "1316142788",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Velc",
+    "name": "Hats Display Selection",
+    "steamId": "1542291825",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ssulunge",
+    "name": "Kijin Race 3.0",
+    "steamId": "2884551646",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.6.0.0"
+  },
+  {
+    "author": "ThePatchWorkHoax",
+    "name": "Melee Psycasts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "noodlesking",
+    "name": "More Psycasts",
+    "steamId": "2460833332",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "Lyzz",
+    "name": "NaraiXenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Psionic+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "K",
+    "name": "PsiTech",
+    "steamId": "2078892294",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "BoeDankles",
+    "name": "PsychoCasts (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Security Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rooki1",
+    "name": "Rimsenal - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist and Mlie",
+    "name": "Simple FX: Smoke",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Scattered Flames",
+    "steamId": "2652749788",
+    "version": "1.4"
+  },
+  {
+    "author": "RemingtonRyder",
+    "name": "Sometimes Raids Go Wrong",
+    "steamId": "1551336515",
+    "version": "1.0.8387.22941"
+  },
+  {
+    "author": "DevDesigner",
+    "name": "Thrumboian Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fuu Chan",
+    "name": "[Fuu] Uncompromising Fires",
+    "steamId": "2623963630",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity (exDev) & Luca",
+    "name": "[LC] Consolidated Traits",
+    "steamId": "2879753009",
+    "version": "1.0.8335.14924"
+  },
+  {
+    "author": "Superniquito",
+    "name": "Trait and Backstory Icons",
     "steamId": null,
     "version": null
   }
